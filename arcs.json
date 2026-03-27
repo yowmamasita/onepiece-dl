@@ -2,21 +2,38 @@
   "manga": "One Piece",
   "source": "tcbonepiecechapters.com",
   "arcs": [
-    {
-      "name": "Wano Country",
-      "chapters": [909, 1057],
-      "status": "completed"
-    },
-    {
-      "name": "Egghead",
-      "chapters": [1058, 1125],
-      "status": "completed"
-    },
-    {
-      "name": "Elbaf",
-      "chapters": [1126, null],
-      "status": "ongoing",
-      "latest_chapter": 1178
-    }
+    { "name": "Romance Dawn", "chapters": [1, 7], "status": "completed" },
+    { "name": "Orange Town", "chapters": [8, 21], "status": "completed" },
+    { "name": "Syrup Village", "chapters": [22, 41], "status": "completed" },
+    { "name": "Baratie", "chapters": [42, 68], "status": "completed" },
+    { "name": "Arlong Park", "chapters": [69, 95], "status": "completed" },
+    { "name": "Loguetown", "chapters": [96, 100], "status": "completed" },
+    { "name": "Reverse Mountain", "chapters": [101, 105], "status": "completed" },
+    { "name": "Whiskey Peak", "chapters": [106, 114], "status": "completed" },
+    { "name": "Little Garden", "chapters": [115, 129], "status": "completed" },
+    { "name": "Drum Island", "chapters": [130, 154], "status": "completed" },
+    { "name": "Arabasta", "chapters": [155, 217], "status": "completed" },
+    { "name": "Jaya", "chapters": [218, 236], "status": "completed" },
+    { "name": "Skypiea", "chapters": [237, 302], "status": "completed" },
+    { "name": "Long Ring Long Land", "chapters": [303, 321], "status": "completed" },
+    { "name": "Water 7", "chapters": [322, 374], "status": "completed" },
+    { "name": "Enies Lobby", "chapters": [375, 430], "status": "completed" },
+    { "name": "Post-Enies Lobby", "chapters": [431, 441], "status": "completed" },
+    { "name": "Thriller Bark", "chapters": [442, 489], "status": "completed" },
+    { "name": "Sabaody Archipelago", "chapters": [490, 513], "status": "completed" },
+    { "name": "Amazon Lily", "chapters": [514, 524], "status": "completed" },
+    { "name": "Impel Down", "chapters": [525, 549], "status": "completed" },
+    { "name": "Marineford", "chapters": [550, 580], "status": "completed" },
+    { "name": "Post-War", "chapters": [581, 597], "status": "completed" },
+    { "name": "Return to Sabaody", "chapters": [598, 602], "status": "completed" },
+    { "name": "Fish-Man Island", "chapters": [603, 653], "status": "completed" },
+    { "name": "Punk Hazard", "chapters": [654, 699], "status": "completed" },
+    { "name": "Dressrosa", "chapters": [700, 801], "status": "completed" },
+    { "name": "Zou", "chapters": [802, 824], "status": "completed" },
+    { "name": "Whole Cake Island", "chapters": [825, 902], "status": "completed" },
+    { "name": "Levely", "chapters": [903, 908], "status": "completed" },
+    { "name": "Wano Country", "chapters": [909, 1057], "status": "completed" },
+    { "name": "Egghead", "chapters": [1058, 1125], "status": "completed" },
+    { "name": "Elbaf", "chapters": [1126, null], "status": "ongoing", "latest_chapter": 1178 }
   ]
 }
